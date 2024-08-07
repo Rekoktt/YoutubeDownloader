@@ -1,3 +1,6 @@
+# if you want to use this, 
+# install ffmpeg.exe to the project folder
+
 import os
 import sys
 import yt_dlp
